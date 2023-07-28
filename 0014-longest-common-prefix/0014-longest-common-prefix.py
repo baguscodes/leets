@@ -7,14 +7,11 @@ class Solution(object):
         if not strs:
             return ""
 
-        # Find the shortest string in the list (since the common prefix cannot be longer)
-        shortest_str = min(strs, key=len)
-
-        # Iterate through the characters of the shortest string
-        for i, char in enumerate(shortest_str):
+        # Iterate through the characters of the first string
+        for i, char in enumerate(strs[0]):
             # Compare the character with the corresponding characters in other strings
-            for string in strs:
-                if string[i] != char:
-                    return shortest_str[:i]
+            for string in strs[1:]:
+                if i >= len(string) or string[i] != char:
+                    return strs[0][:i]
 
-        return shortest_str
+        return strs[0]
