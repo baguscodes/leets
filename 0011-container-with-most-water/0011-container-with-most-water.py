@@ -12,11 +12,8 @@ class Solution(object):
             width = right - left
             current_height = min(height[left], height[right])
 
-            # Calculate the area of the current container
-            current_area = width * current_height
-
-            # Update the maximum area if needed
-            max_area = max(max_area, current_area)
+            # Calculate the area of the current container and update max_area
+            max_area = max(max_area, width * current_height)
 
             # Move the pointer with the smaller height towards the center
             if height[left] < height[right]:
