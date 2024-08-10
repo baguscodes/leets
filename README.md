@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/baguscodes/leets/tree/master/0058-length-of-last-word) |
 | [2365-percentage-of-letter-in-string](https://github.com/baguscodes/leets/tree/master/2365-percentage-of-letter-in-string) |
 | [2406-decode-the-message](https://github.com/baguscodes/leets/tree/master/2406-decode-the-message) |
 ## Hash Table
