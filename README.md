@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/baguscodes/leets/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/baguscodes/leets/tree/master/0067-add-binary) |
 | [2365-percentage-of-letter-in-string](https://github.com/baguscodes/leets/tree/master/2365-percentage-of-letter-in-string) |
 | [2406-decode-the-message](https://github.com/baguscodes/leets/tree/master/2406-decode-the-message) |
 ## Hash Table
@@ -31,4 +32,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/baguscodes/leets/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/baguscodes/leets/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/baguscodes/leets/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/baguscodes/leets/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
